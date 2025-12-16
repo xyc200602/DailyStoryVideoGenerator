@@ -30,7 +30,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/DailyStoryVideoGenerator.git
+git clone https://github.com/xyc200602/DailyStoryVideoGenerator.git
 cd DailyStoryVideoGenerator
 ```
 
@@ -185,5 +185,5 @@ MIT License
 
 ## 联系方式
 
-- 邮箱：your-email@example.com
-- GitHub：https://github.com/yourusername/DailyStoryVideoGenerator
+- 邮箱：dc42857@um.edu.mo
+- GitHub：https://github.com/xyc200602
